@@ -1,5 +1,3 @@
-# friction_force
-Friction Force is free educational platform designed to make learning about friction forces engaging and thorough. Explore clear theoretical explanations, real-time interactive simulations, and quizzes to test your understanding. Whether you're a student, a teacher, or simply curious about physics — this platform is built for you.
 # ⚡ Ishqalanish Kuchi — Fizika Ta'lim Platformasi
 
 > Ishqalanish koeffitsiyentini nazariya, simulyatsiyalar, formulalar va testlar orqali o'rganish uchun bepul interaktiv ta'lim sayta.
